@@ -66,6 +66,7 @@ This project is licensed under the MIT License.
 ---
 💡 *Contributions are welcome! Fork the repo and submit a pull request to improve the system.*
 ## 📌 Example Output
+![Screenshot 2025-02-15 131858](https://github.com/user-attachments/assets/9c26f792-d9d2-44c6-a44b-33d1c6e82843)
 ![Screenshot 2025-02-15 131943](https://github.com/user-attachments/assets/75a8d5c6-bc1f-452f-b358-81f1c9f57a90)
 ![Screenshot 2025-02-15 131917](https://github.com/user-attachments/assets/f861af9d-575a-443d-9f60-82e64c582592)
-![Screenshot 2025-02-15 131858](https://github.com/user-attachments/assets/9c26f792-d9d2-44c6-a44b-33d1c6e82843)
+
