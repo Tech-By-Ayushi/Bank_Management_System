@@ -36,7 +36,7 @@ Banking_Management_System/
 ## 🔧 Setup & Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/Banking_Management_System.git
+   git clone https://github.com/Tech-By-Ayushi/Banking_Management_System.git
    ```
 2. **Navigate to the project directory**
    ```sh
