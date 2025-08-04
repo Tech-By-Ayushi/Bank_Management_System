@@ -9,7 +9,7 @@ A **Banking Management System** built in **Java** using **Swing** for the GUI an
 
 ## 🛠 Technologies Used
 - **Java** (Core Logic & Application)
-- **Java Swing** (Graphical User Interface)
+- **Java Swing** (GUI)
 - **JDBC** (Database Connection)
 - **SQL Database** (Data Storage)
 
